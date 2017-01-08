@@ -13,3 +13,7 @@ li {
 #endLi{
 	background: blue;
 }
+
+.firstHalf{
+	text-decoration: line-through;
+}
