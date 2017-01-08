@@ -1,0 +1,15 @@
+
+/*Element selectors select all elements of a specifc type*/
+body {
+	background: orange;
+}
+
+li {
+	border: 2px solid red;
+}
+
+/*ID selector - use an id is html ad a atribute to html*/
+
+#endLi{
+	background: blue;
+}
