@@ -14,5 +14,25 @@ li +a {
 
 /*class, atribute, and Pseudo-Class selectors */
 
+.hello{
+
+}
+
+input[type="text"]{
+
+}
+
+a:hover{
+
+}
+
+input:checked{
+
+}
+
 
 /*ID Selectors*/
+
+#hello{
+	
+}
