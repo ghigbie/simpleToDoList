@@ -1,0 +1,18 @@
+/*Type selectors and the least sepcific "li", "li a", "li +a"*/
+
+li {
+
+}
+
+li a {
+
+}
+
+li +a {
+
+}
+
+/*class, atribute, and Pseudo-Class selectors */
+
+
+/*ID Selectors*/
